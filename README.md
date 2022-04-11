@@ -10,5 +10,7 @@ Sua contribuição e/ou sugestão é muito essencial para esse momento, então, 
 
 ### Voluntários
 * **Allan Kardec** - *Frontend* - [kaardeco](https://github.com/kaardeco)
-* **Caio Josué** - *Texto* - [sem-github](https://github.com/boitatech)
-* **Fernando Fernandes** - *Frontend* - [fferreiralf](https://github.com/fernand0es)
+* **Fernando Fernandes** - *Frontend* - [fernand0es](https://github.com/fernand0es)
+* **Caio Josué** - *Texto* - [J0sas](https://github.com/J0sas)
+* **Antony Leite** - *Infra* - [G4L1T0](https://github.com/G4L1T0)
+
