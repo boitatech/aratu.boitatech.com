@@ -1,0 +1,102 @@
+@import './assets/fonts/fonts.css';
+
+:root {
+	--font-body: 'Poppins', sans-serif;
+	--font-mono: 'VT323', monospace;
+	--color-bg-0: rgb(202, 216, 228);
+	--color-bg-1: hsl(209, 36%, 86%);
+	--color-bg-2: hsl(224, 44%, 95%);
+	--color-theme-1: #ff3e00;
+	--color-theme-2: #4075a6;
+	--color-text: rgba(0, 0, 0, 0.7);
+	--black: #121212;
+	--white: #FEFEFE;
+	--column-width: 42rem;
+	--column-margin-top: 4rem;
+	font-family: var(--font-mono);
+	color: var(--color-text);
+}
+body {
+	min-height: 100vh;
+	margin: 0;
+	background-attachment: fixed;
+	background-color: var(--black);
+	background-size: 100vw 100vh;
+	color: var(--white);
+}
+  
+.general-container {
+    width: 100vw;
+    height: 100vh;
+  }
+
+.small {
+    font-size: 18px;
+}
+
+.large {
+    font-size: 40px;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+	font-weight: 300;
+}
+
+.extra-large {
+	font-size: 60px;
+	font-weight: 400;
+}
+
+.medium {
+    font-size: 24px;
+	font-weight: 300;
+}
+
+.poppins {
+	font-family: var(--font-body);
+}
+
+ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		gap: 2rem;	
+}
+
+a {
+    color: #FEFEFE;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B90000;
+}
+
+button {
+	font-family: var(--font-mono);
+}
+
+h1, h2, h3, h4 {
+	margin: 0;
+	padding: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #555; 
+  }
