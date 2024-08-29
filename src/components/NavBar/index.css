@@ -1,57 +1,65 @@
 .discord-button {
-    width: 140px;
-    height: 40px;
-    color: #FEFEFE;
-    border: none;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    font-size: 16px;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    background-color: #B90000;
-    border-radius: 20px;
+  color: #fefefe;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 16px;
+  padding: 0.1rem 1rem 0.1rem 1rem;
+  background-color: #b90000;
+  border-radius: 20px;
 }
 
 .lang-button {
-    background-color: transparent;
-    border: none;
-    color: #FEFEFE;
-    border: none;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+  background-color: transparent;
+  border: none;
+  color: #fefefe;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .discord-button:hover {
-    background-color: #DF0000;
+  background-color: #df0000;
 }
 
-/* navbar styles */
 nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1.5rem;
+}
+
+@media (max-width: 750px) {
+  .nav-logo {
+    display: none;
+  }
+}
+
+@media (max-width: 400px) {
+  .button-text {
+    display: none;
+  }
 }
 
 .add-buttons-container {
-    display: flex;
-    gap: 2rem;
+  display: flex;
+  gap: 2rem;
 }
 
 .options-nav {
-    gap: 5rem;
+  gap: 5rem;
 }
 
 .button-link {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
 }
 
 .button-link:hover {
-    color: #FEFEFE;
+  color: #fefefe;
 }

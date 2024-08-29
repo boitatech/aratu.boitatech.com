@@ -1,9 +1,18 @@
-
 .card-content {
-    width: 1144px;
-    margin-top: 0.5rem;
+  width: 90%;
+  margin-top: 0.5rem;
 }
 
 .desc-container {
-    width: 70%;
+  width: 70%;
+}
+
+.dotted-line {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  border-bottom: 2px dotted #ee1212;
+  border-radius: 4px;
+  z-index: -1;
 }

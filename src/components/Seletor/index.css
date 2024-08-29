@@ -1,22 +1,25 @@
 .buttons-container {
-    width: 845px;
-    height: 55px;
-    display: flex;
-    justify-content: center;
-    gap: 0.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem;
 }
 
 .buttons-container button {
-    width: 125px;
-    height: 45px;
-    background-color: #1E1E1E;
-    color: #FEFEFE;
-    border: none;
-    border-radius: 4px;
-    font-size: 20px;
-    cursor: pointer;
+  width: 125px;
+  height: 45px;
+  background-color: #1e1e1e;
+  color: #fefefe;
+  border: none;
+  border-radius: 4px;
+  font-size: 20px;
+  cursor: pointer;
 }
 
 .buttons-container button:hover {
-    background-color: #ee1212;
+  background-color: #ee1212;
+}
+
+.buttons-container .selected {
+  background-color: #ee1212;
 }
