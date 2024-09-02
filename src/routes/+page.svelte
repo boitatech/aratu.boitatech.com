@@ -110,7 +110,7 @@
 				</p>
 	
 				<p class="poppins">
-					As palestras do evento serão transmitidas ao vivo na <a href="twitch.tv/boitatech"><HighlightedText value="twitch.tv/boitatech"/></a> e no <a href="youtube.com/boitatech"><HighlightedText value="youtube.com/boitatech"/> </a> nos dias e horários informados abaixo.
+					As palestras do evento serão transmitidas ao vivo na <a href="https://twitch.tv/boitatech"><HighlightedText value="twitch.tv/boitatech"/></a> e no <a href="https://youtube.com/boitatech"><HighlightedText value="youtube.com/boitatech"/> </a> nos dias e horários informados abaixo.
 				</p>
 	
 				<div class="inline-container"><HighlightedText value="Palestras" class="large"/> <p class="poppins">: De 24 até 26/09, das 18h30 até às 22h</p></div>
