@@ -2,7 +2,7 @@ name: Deploy Aratu 2024 to GitHub Pages
 
 on:
   push:
-    branches: 'aratu_2024'
+    branches: 'master'
 
 jobs:
   build_site:
