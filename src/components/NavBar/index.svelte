@@ -1,6 +1,6 @@
 <script>
     import discordicon from '../../assets/Discord.svg'
-    import boitatechlogo from '../../assets/boitatech-logo.png'
+    import boitatechlogo from '../../assets/boitatechlogo.png'
 </script>
 
 <style>
