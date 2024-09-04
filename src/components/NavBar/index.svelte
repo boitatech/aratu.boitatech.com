@@ -1,6 +1,5 @@
 <script>
     import discordicon from '../../assets/Discord.svg'
-    import boitatechlogo from '../../assets/boitatechlogo.png'
 </script>
 
 <style>
@@ -8,7 +7,7 @@
 </style>
     
     <nav>
-        <img src={boitatechlogo} class="nav-logo" alt="boitatech-logo" draggable="false" />
+        <img src="https://raw.githubusercontent.com/boitatech/aratu.boitatech.com/master/src/assets/boitatechlogo.png" class="nav-logo" alt="boitatech-logo" draggable="false" />
         <ul class="options-nav">
             <li><a href="https://www.boitatech.com" class="small">nosso site</a></li>
             <li><a href="https://aratu.boitatech.com" class="red small">semana aratu</a></li>
