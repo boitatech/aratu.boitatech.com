@@ -6,6 +6,26 @@
 		gap: 1.8rem;
 	}
 
+	.ctf-button {
+	  color: #fafafa;
+	  border: none;
+	  width:30%;
+	  height:50%;
+	  cursor: pointer;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	  font-size: 37px;
+	  padding: 0.5rem 1.5rem;
+	  background-color: #EE1212;
+	  border-radius: 20px;
+	  transition: background-color 0.3s;
+	}
+
+	.ctf-button:hover {
+	  background-color: #9d0b0b;
+	}
+
 	.bg-image {
 		position: absolute;
 		bottom: -63rem;
@@ -149,9 +169,16 @@
 	
 				</p>
 			</div>
+			
 		</div>
+
+	        <img src={semanaaratubg} alt="logo semana aratu" class="bg-image" />
+
+		<a class="ctf-button" href="https://ctf.boita.tech">
+			Participe do CTF!
+		</a>
     
-        <img src={semanaaratubg} alt="logo semana aratu" class="bg-image" />
+
     </div>
 </section>
 
