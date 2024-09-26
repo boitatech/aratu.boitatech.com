@@ -153,9 +153,9 @@
 				<h1>Participe do CTF da Semana Aratu! 🔥🐍</h1>
 				<p class="medium">
 	
-				Início: 27/09 às 00:00
+				Início: 27/09 às 21:00 (GMT-3)
 				<br>
-				Encerramento: 29/09 às 23:59
+				Encerramento: 29/09 às 21:00 (GMT-3)
 				</p>
 	
 				<p class="medium">
